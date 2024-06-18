@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201713421503",
+    "project_id": "smssender-8977f",
+    "storage_bucket": "smssender-8977f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201713421503:android:fa985570239a0730a0ca0a",
+        "android_client_info": {
+          "package_name": "com.example.smssender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzZawv-VwouXbOymRCsA3p_1vSWtAJKGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

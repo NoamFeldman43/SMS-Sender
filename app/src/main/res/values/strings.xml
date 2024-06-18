@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sender</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SMSsender</string>
+    <string name="nav_header_subtitle">By Oran Hadad, Noam Feldman, Nave Rap</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_about">About</string>
+
+    <string name="menu_home">הוסף תלמיד</string>
+    <string name="menu_gallery">שדר הודעה</string>
+    <string name="menu_slideshow">טבלת תלמידים</string>
+</resources>
